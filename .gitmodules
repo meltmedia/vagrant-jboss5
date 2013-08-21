@@ -1,0 +1,24 @@
+[submodule "src/chef/cookbooks/apache2"]
+	path = src/chef/cookbooks/apache2
+	url = git@github.com:opscode-cookbooks/apache2.git
+[submodule "src/chef/cookbooks/apt"]
+	path = src/chef/cookbooks/apt
+	url = git@github.com:opscode-cookbooks/apt.git
+[submodule "src/chef/cookbooks/ark"]
+	path = src/chef/cookbooks/ark
+	url = git@github.com:opscode-cookbooks/ark.git
+[submodule "src/chef/cookbooks/java"]
+	path = src/chef/cookbooks/java
+	url = git@github.com:opscode-cookbooks/java.git
+[submodule "src/chef/cookbooks/maven"]
+	path = src/chef/cookbooks/maven
+	url = git@github.com:opscode-cookbooks/maven.git
+[submodule "src/chef/cookbooks/jboss5"]
+	path = src/chef/cookbooks/jboss5
+	url = git@github.com:meltmedia/chef-jboss5.git
+[submodule "src/chef/cookbooks/vim"]
+	path = src/chef/cookbooks/vim
+	url = git@github.com:opscode-cookbooks/vim.git
+[submodule "src/chef/cookbooks/activemq"]
+	path = src/chef/cookbooks/activemq
+	url = git@github.com:opscode-cookbooks/activemq.git
